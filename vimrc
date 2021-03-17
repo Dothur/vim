@@ -106,3 +106,4 @@ set cursorline
 vmap '' :w !pbcopy<CR><CR>
 
 set fileencodings=utf8
+autocmd BufNewFile *.java 0r ~/.vim/templates/java.template
