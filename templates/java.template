@@ -1,4 +1,6 @@
 import java.util.Scanner;
 
-public class className {
-	public static void main(String[] args)
+public class Name {
+	public static void main(String args[]){
+	}
+}
